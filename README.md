@@ -1,4 +1,4 @@
-### Hi there 👋
+### Learning about Artificial Intelligence and Software Development
 
 <!--
 **ponchowannie/ponchowannie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
